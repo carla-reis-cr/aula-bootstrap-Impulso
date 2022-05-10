@@ -1,7 +1,9 @@
-# **Conceitos de Bootstrap Impulso**
+# **Conceitos de Bootstrap **
+Aula de Bootstrap do bootcamp Impulso na Dio
 
 ## O que a plataforma é capaz de fazer :checkered_flag:
 
+/*
 ### Listas não ordenadas
 - Cadastro de conta com Google
     - Captura de avatar a partir do login ou registro com google
@@ -13,7 +15,7 @@
 
 ### Lista ordenada
 1. Listagem ordenada 
-
+*/
 
 ## Deploy da Aplicação com Netlify: :dash:
 > [Link](https://carla-reis-cr.github.io/aula-bootstrap-Impulso/)
