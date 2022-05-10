@@ -1,32 +1,10 @@
-# **Conceitos de Bootstrap**
-
-
-
-## O que a plataforma é capaz de fazer :checkered_flag:
-
-/*
-### Listas não ordenadas
-- Cadastro de conta com Google
-    - Captura de avatar a partir do login ou registro com google
-
-### Usando um task list, marcando tarefa como completada ou não  
-
-- [X] Cadastro de conta com Google
-- [ ] Cadastro de conta com Google
-
-### Lista ordenada
-1. Listagem ordenada 
-*/
-
-## Deploy da Aplicação com Netlify: :dash:
-
-
-## Linguagens e libs utilizadas :books:
 
 <h1>Aplicação de conceitos Bootstrap</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=html&color=#E34F26&style=for-the-badge&logo=HTML"/>
+  <img src="https://img.shields.io/static/v1?label=HTML&message=v5&color=blue&style=for-the-badge&logo=html"/>
+  <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=blue&style=for-the-badge&logo=css"/>
+    <img src="https://img.shields.io/static/v1?label=BOOTSTRAP&message=v5.1.3 &color=blueviolet&style=for-the-badge&logo=bootstrap"/>
 </p>
 
 > Status do Projeto: :heavy_check_mark:
@@ -43,9 +21,6 @@
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-... 
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto 
 
@@ -53,15 +28,15 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
   Aula de Bootstrap do bootcamp Impulso na Dio. Executados conceitos do Bootstrap.
 </p>
 
+
 ## Funcionalidades
 
 :heavy_check_mark: Apresentar de forma profissional algum conteudo em landing pages 
 
-## Aplicação :dash:
+## Deploy da Aplicação :dash:
 
 > [Link](https://carla-reis-cr.github.io/aula-bootstrap-Impulso/)
 
-... 
 
 ## Pré-requisitos
 
@@ -73,8 +48,9 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https://github.com/carla-reis-cr/aula-bootstrap-Impulso.git
 ```
+
 
 ## Licença 
 
