@@ -1,19 +1,20 @@
-# **Conceitos de Bootstrap **
+# **Conceitos de Bootstrap**
+
 Aula de Bootstrap do bootcamp Impulso na Dio
 
 ## O que a plataforma é capaz de fazer :checkered_flag:
 
 /*
-### Listas não ordenadas
+ Listas não ordenadas
 - Cadastro de conta com Google
     - Captura de avatar a partir do login ou registro com google
 
-### Usando um task list, marcando tarefa como completada ou não  
+ Usando um task list, marcando tarefa como completada ou não  
 
 - [X] Cadastro de conta com Google
 - [ ] Cadastro de conta com Google
 
-### Lista ordenada
+ Lista ordenada
 1. Listagem ordenada 
 */
 
